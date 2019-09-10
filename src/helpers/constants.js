@@ -9,7 +9,8 @@ export const DOM_EVENTS_LIST = [
 
 export const STORAGE_EVENTS_LIST = [
   ['change', ['remove', 'set', 'clear', 'empty']],
-  'get'
+  'get',
+  'has'
 ];
 
 export const STORAGE_TYPES_LIST = [
